@@ -1,0 +1,11 @@
+.*.swp
+.DS_Store
+,*
+
+*.pyc
+
+dataset/5-fold
+dataset/IRM_output
+dataset/bookmarks.graph
+dataset/pages.json
+CF.*
