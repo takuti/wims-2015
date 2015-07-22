@@ -2,7 +2,7 @@
 
 ### Reference
 
-Takuya Kitazawa and Masahide Sugiyama **User Modeling in Folksonomies: Relational Clustering and Tag Weighting**. In *Proc. of WIMS'15*, July 2015. (to appear)
+Takuya Kitazawa and Masahide Sugiyama **User Modeling in Folksonomies: Relational Clustering and Tag Weighting**. In *Proc. of WIMS'15*, July 2015.
 
 ### The Infinite Relational Model
 
