@@ -22,7 +22,7 @@ Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz
 
 ### Dataset
 
-Dataset used in this paper is available at https://dl.dropboxusercontent.com/u/4844005/WIMS2015_dataset.zip
+Dataset used in this paper is available at: https://drive.google.com/open?id=1sSXm24tHHSm1TV8XNDyBLnDFKoKH5k0z
 
 Open the .zip file, and you can find:
 
