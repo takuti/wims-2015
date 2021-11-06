@@ -6,7 +6,7 @@ Takuya Kitazawa and Masahide Sugiyama **[User Modeling in Folksonomies: Relation
 
 ### The Infinite Relational Model
 
-Our paper deeply refers the Infinite Relational Model (IRM) proposed by C. Kemp et al. Source code developed by the author is available at http://www.psy.cmu.edu/~ckemp/code/irm.html
+Our paper deeply refers the Infinite Relational Model (IRM) proposed by C. Kemp et al. Source code developed by the author is available at http://www.charleskemp.com/code/irm.html
 
 Experiments in this study consider dataset described below, with applying this source code. IRM-based relational clustering iteratively works as:
 
